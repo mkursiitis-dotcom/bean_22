@@ -36,5 +36,5 @@ Unity 22 projekts
 
 -\[] Ieviest galvenās izvēlnes ainu
 
--\[]
+-\[x] Test
 
