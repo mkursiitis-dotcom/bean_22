@@ -8,13 +8,13 @@ Unity 22 projekts
 
 -\[x] Sagatavot visu versionēšanai un izvietošanai GitHub
 
--\[] Izmēģināt UI Button Lietojumu
+-\[x] Izmēģināt UI Button Lietojumu
 
--\[] Izmēģināt UI Text Lietojumu
+-\[x] Izmēģināt UI Text Lietojumu
 
--\[] Izmēģināt UI Input field Lietojumu
+-\[x] Izmēģināt UI Input field Lietojumu
 
--\[] Izmēģināt UI Panel Lietojumu
+-\[x] Izmēģināt UI Panel Lietojumu
 
 -\[] Izmēģināt UI Image Lietojumu
 
@@ -24,15 +24,15 @@ Unity 22 projekts
 
 -\[] Izmēģināt UI Dropdown Lietojumu
 
--\[] Izmēģināt UI Scroll view Lietojumu
+-\[x] Izmēģināt UI Scroll view Lietojumu
 
--\[] Izveidot C# darbam ar tekstu
+-\[x] Izveidot C# darbam ar tekstu
 
 -\[] Izveidot C# skriptu darbam ar UI attēliem
 
 -\[] Izveidot C# skriptu drag and drop funkcionalitātei
 
--\[] Ieviest audio efektus
+-\[x] Ieviest audio efektus
 
 -\[] Ieviest galvenās izvēlnes ainu
 
